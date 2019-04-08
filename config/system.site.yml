@@ -1,0 +1,14 @@
+uuid: fcf8ca19-34e8-4928-a6b8-5dc118284594
+name: ategegn-drupalcon-seattle-2019
+mail: andrew+drupalcon-seattle-2019@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
